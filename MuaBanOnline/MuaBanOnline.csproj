@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F59EF717-FA17-40D0-AB4D-197BA39BFB6E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>MuaBanOnline</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fBan.Designer.cs">
+      <DependentUpon>fBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBSQLServerUtils\clsdelete.cs" />
+    <Compile Include="DBSQLServerUtils\clsInsert.cs" />
+    <Compile Include="DBSQLServerUtils\clsSelect.cs" />
+    <Compile Include="DBSQLServerUtils\clsUpdate.cs" />
+    <Compile Include="DBSQLServerUtils\clsView.cs" />
+    <Compile Include="fDangKi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDangKi.Designer.cs">
+      <DependentUpon>fDangKi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fDeTail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDeTail.Designer.cs">
+      <DependentUpon>fDeTail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fHoTro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fHoTro.Designer.cs">
+      <DependentUpon>fHoTro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fPay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPay.Designer.cs">
+      <DependentUpon>fPay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fKindOfGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fKindOfGame.Designer.cs">
+      <DependentUpon>fKindOfGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fTrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fTrangChu.Designer.cs">
+      <DependentUpon>fTrangChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ShopAccountDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ShopAccountDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="fThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fThanhToan.Designer.cs">
+      <DependentUpon>fThanhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fViewGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fViewGame.Designer.cs">
+      <DependentUpon>fViewGame.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="fBan.resx">
+      <DependentUpon>fBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fDangKi.resx">
+      <DependentUpon>fDangKi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fDeTail.resx">
+      <DependentUpon>fDeTail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fHoTro.resx">
+      <DependentUpon>fHoTro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPay.resx">
+      <DependentUpon>fPay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fKindOfGame.resx">
+      <DependentUpon>fKindOfGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fTrangChu.resx">
+      <DependentUpon>fTrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fThanhToan.resx">
+      <DependentUpon>fThanhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fViewGame.resx">
+      <DependentUpon>fViewGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="ShopAccountDataSet.xsc">
+      <DependentUpon>ShopAccountDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ShopAccountDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ShopAccountDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ShopAccountDataSet.xss">
+      <DependentUpon>ShopAccountDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Among Us.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arma 3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CounterStrike.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dauntless.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead by Daylight.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Destiny 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dota-2-header.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EVE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fortnite.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Genshin Impact.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MapleStory.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minecraft.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\never winter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\og_rift_lg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Overcooked 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Overwatch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paladins.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Path-of-Exile-Echoes-of-the-Atlas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Portal 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Prod_Brawlhalla.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rainbow Six Siege.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Realm Royale.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smite.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Star comflict.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Team Fortress 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WarFace.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warframe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warframe-metacard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\World of Warships.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WorldOfTank.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Among Us1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arma 31.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Counter strike.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dauntless1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead by Daylight1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Destiny 21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dota-2-header1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EVE1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fortnite1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Genshin Impact1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MapleStory1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minecraft1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\never winter1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\og_rift_lg1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Overcooked 21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Overwatch1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paladins1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Path-of-Exile-Echoes-of-the-Atlas1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Portal 21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Prod_Brawlhalla1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rainbow Six Siege1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Realm Royale1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smite1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Star comflict1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Team Fortress 21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WarFace1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warframe1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warframe-metacard1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\World of Warships1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WorldOfTank1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FIFA.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

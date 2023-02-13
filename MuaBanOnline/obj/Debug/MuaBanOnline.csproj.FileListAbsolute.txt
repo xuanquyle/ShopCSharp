@@ -1,0 +1,92 @@
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\bin\Debug\MuaBanOnline.exe.config
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\bin\Debug\MuaBanOnline.exe
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\bin\Debug\MuaBanOnline.pdb
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.csprojResolveAssemblyReference.cache
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.Properties.Resources.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.csproj.GenerateResource.Cache
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.exe
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.pdb
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.fLogin.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.fBan.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.fTrangChu.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.fKindOfGame.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.fThanhToan.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.fPay.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.fDangKi.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.fHoTro.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\bin\Debug\MuaBanOnline.exe.config
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\obj\Debug\MuaBanOnline.exe
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\obj\Debug\MuaBanOnline.pdb
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\bin\Debug\MuaBanOnline.exe
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\bin\Debug\MuaBanOnline.pdb
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\obj\Debug\MuaBanOnline.csprojResolveAssemblyReference.cache
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\obj\Debug\MuaBanOnline.fBan.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\obj\Debug\MuaBanOnline.fDangKi.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\obj\Debug\MuaBanOnline.fHoTro.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\obj\Debug\MuaBanOnline.fPay.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\obj\Debug\MuaBanOnline.fKindOfGame.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\obj\Debug\MuaBanOnline.fLogin.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\obj\Debug\MuaBanOnline.fTrangChu.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\obj\Debug\MuaBanOnline.Properties.Resources.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\obj\Debug\MuaBanOnline.fThanhToan.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline (1)\MuaBanOnline\obj\Debug\MuaBanOnline.csproj.GenerateResource.Cache
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\bin\Debug\MuaBanOnline.exe.config
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.exe
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.pdb
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.csprojResolveAssemblyReference.cache
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.csproj.GenerateResource.Cache
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\bin\Debug\MuaBanOnline.exe
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\bin\Debug\MuaBanOnline.pdb
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fBan.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fDangKi.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fHoTro.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fPay.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fKindOfGame.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fLogin.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fTrangChu.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fThanhToan.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fDeTail.resources
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fViewGame.resources
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\bin\Debug\MuaBanOnline.exe.config
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.exe
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.pdb
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\bin\Debug\MuaBanOnline.exe
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\bin\Debug\MuaBanOnline.pdb
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.csprojResolveAssemblyReference.cache
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fBan.resources
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fDangKi.resources
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fDeTail.resources
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fHoTro.resources
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fPay.resources
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fKindOfGame.resources
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fLogin.resources
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fTrangChu.resources
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fThanhToan.resources
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fViewGame.resources
+C:\Users\acer\OneDrive\Máy tính\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.csproj.GenerateResource.Cache
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\MuaBanOnline\bin\Debug\MuaBanOnline.exe.config
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.exe
+E:\S4\PT TKGT\BIG PROJECT\MuaBanOnline\MuaBanOnline\MuaBanOnline\MuaBanOnline\obj\Debug\MuaBanOnline.pdb
+E:\MuaBanOnline\bin\Debug\MuaBanOnline.exe.config
+E:\MuaBanOnline\bin\Debug\MuaBanOnline.exe
+E:\MuaBanOnline\bin\Debug\MuaBanOnline.pdb
+E:\MuaBanOnline\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\MuaBanOnline\obj\Debug\MuaBanOnline.csproj.AssemblyReference.cache
+E:\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fBan.resources
+E:\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fDangKi.resources
+E:\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fDeTail.resources
+E:\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fHoTro.resources
+E:\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fPay.resources
+E:\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fKindOfGame.resources
+E:\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fLogin.resources
+E:\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fTrangChu.resources
+E:\MuaBanOnline\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fThanhToan.resources
+E:\MuaBanOnline\obj\Debug\WindowsFormsApplication1.fViewGame.resources
+E:\MuaBanOnline\obj\Debug\MuaBanOnline.csproj.GenerateResource.cache
+E:\MuaBanOnline\obj\Debug\MuaBanOnline.csproj.CoreCompileInputs.cache
+E:\MuaBanOnline\obj\Debug\MuaBanOnline.csproj.CopyComplete
+E:\MuaBanOnline\obj\Debug\MuaBanOnline.exe
+E:\MuaBanOnline\obj\Debug\MuaBanOnline.pdb
